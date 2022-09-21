@@ -1,0 +1,36 @@
+
+footer{
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgb(93, 60, 60);
+    height: auto;
+    font-family: "Open Sans";
+    padding-top: 5px;
+    color: rgb(0, 0, 0);
+}
+
+.socials{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0 1rem 0;
+}
+.socials li{
+    margin: 0 10px;
+}
+.socials a{
+    text-decoration: none;
+    color: rgb(93, 60, 60);
+}
+
+
+.footer-bottom{
+    background: rgb(249, 96, 0);
+    padding: 20px 0;
+    text-align: center;
+}
+.footer-bottom span{
+    font-weight: 200;
+}
